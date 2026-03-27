@@ -1,6 +1,7 @@
 # Tung-Tung-Tung-Tung-Tung-Sahur
 you draw i guess
 
+3.26
 | Rank |  Name  | Point|
 | ---- | ------ | ---- |
 | 1    | Noah   | 17   |
